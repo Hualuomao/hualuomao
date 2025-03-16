@@ -1,6 +1,3 @@
-Hi, I’m @Hualuomao
-
-<!---
-Hualuomao/Hualuomao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+说明：
+README.md 说明
+game.py 恶魔轮盘赌正常版
